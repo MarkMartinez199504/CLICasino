@@ -4,6 +4,8 @@ We have a small selection of games for you to play.\n
 Here is your complimentary chips for use here in the casino!\n
 """
 
+SCREEN_HEIGHT = 720
+SCREEN_WIDTH = 1280
 DECK_SIZE = 52
 STARTING_CHIPS = 500
 SUITS = ["Clubs", "Spades", "Diamonds", "Hearts"]
